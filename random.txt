@@ -1,2 +1,2 @@
 This is some changes i am making in my local repository.
-Hope this is reflected in GitHub.
+Hi how are you doing.
